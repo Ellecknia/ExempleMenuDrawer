@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TestAppDrawerEdgeCoco"
+rootProject.name = "ExempleMenuDrawer"
 include(":app")
  

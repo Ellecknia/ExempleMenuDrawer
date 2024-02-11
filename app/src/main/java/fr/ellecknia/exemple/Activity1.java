@@ -1,4 +1,4 @@
-package fr.ellecknia.testappdraweredgecoco;
+package fr.ellecknia.exemple;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,10 +9,10 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 
-public class Activity2 extends Fragment {
+public class Activity1 extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_act2, container, false);
+        return inflater.inflate(R.layout.fragment_act1, container, false);
     }
 }

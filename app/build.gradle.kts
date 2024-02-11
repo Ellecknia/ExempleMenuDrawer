@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "fr.ellecknia.testappdraweredgecoco"
+    namespace = "fr.ellecknia.exemple"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "fr.ellecknia.testappdraweredgecoco"
+        applicationId = "fr.ellecknia.exemple"
         minSdk = 27
         targetSdk = 33
         versionCode = 1

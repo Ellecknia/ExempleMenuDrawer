@@ -1,4 +1,4 @@
-package fr.ellecknia.testappdraweredgecoco;
+package fr.ellecknia.exemple;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("fr.ellecknia.testappdraweredgecoco", appContext.getPackageName());
+        assertEquals("fr.ellecknia.exemple", appContext.getPackageName());
     }
 }

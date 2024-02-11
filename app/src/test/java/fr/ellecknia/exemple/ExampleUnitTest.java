@@ -1,4 +1,4 @@
-package fr.ellecknia.testappdraweredgecoco;
+package fr.ellecknia.exemple;
 
 import org.junit.Test;
 

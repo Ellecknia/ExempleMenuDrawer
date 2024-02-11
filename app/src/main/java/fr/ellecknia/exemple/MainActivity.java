@@ -1,4 +1,4 @@
-package fr.ellecknia.testappdraweredgecoco;
+package fr.ellecknia.exemple;
 
 import android.os.Bundle;
 import android.view.Menu;
