@@ -1,0 +1,16 @@
+<resources>
+    <!-- MAIN APP -->
+    <string name="app_name">Nom de l\'application</string>
+
+    <!-- NAVIGATION DRAWER -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="all_acts">Toutes les activités</string>
+
+    <!-- ACTIVITE 1 -->
+    <string name="act1_name">Activité 1</string>
+
+    <!-- ACTIVITE 2 -->
+    <string name="act2_name">Activité 2</string>
+
+</resources>
