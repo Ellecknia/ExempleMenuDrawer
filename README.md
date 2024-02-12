@@ -10,11 +10,13 @@
 
 ## Configuration
 
-> Android Studio Giraffe | 2022.3.1 Patch 3  (Oreo (API 27))
+> Android Studio Giraffe | 2022.3.1 Patch 3 
 
-On commence par créer une application. Pour ma part j'ai choisi de créer une ``Empty view activity``.
+On commence par créer une application. Pour ma part j'ai choisi de créer une ``Empty views activity``.
 
-> Tenter d'exectuer l'application, si jamais ça ne fonctionne pas il est probable que la version du SDK ne soit pas là bonne. En tout cas c'etait mon cas.
+Minimum SDK : API 27 ("Oreo"; Android 8.1)
+
+> Tenter d'exectuer l'application, si jamais ça ne fonctionne pas il est probable que la version du SDK ne soit pas là bonne. En tout cas c'etait mon cas avec cette configuration.
 
 > Pour régler ce problème 
 > - Clique droit sur ``app`` dans la vue Android
