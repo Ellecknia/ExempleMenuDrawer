@@ -10,9 +10,9 @@
 
 ## Configuration
 
-> Android Studio Girafe > Oreo (API 27)
-> 
-> Version 2022.3.1
+> Android Studio Version 2022.3.1
+>
+>  Girafe > Oreo (API 27)
 
 On commence par créer une application. Pour ma part j'ai choisi de créer une ``Empty view activity``.
 
